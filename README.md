@@ -1,4 +1,4 @@
-## Hi there, I'm Ketan Yadav 👋<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=ketan-16.ketan-16"><a href="#"><img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a><a href="https://github.com/ketan-16"><img align="right" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a><a href="https://github.com/ketan-16"><img align="right" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
+## Hi there, I'm Ketan Yadav 👋<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=ketan-16.ketan-16"><a href="https://www.linkedin.com/in/ketan-yadav-b14781182/"><img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a><a href="mailto:ktnydv@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a><a href="https://github.com/ketan-16"><img align="right" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
 
 <br/>
 
