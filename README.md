@@ -5,7 +5,8 @@
 Final Year CSE Student with a Knack for **Web Technologies** and **Python**.
 
 :round_pushpin: Nashik, Maharashtra
-- Currently learning React and Progressive Web Apps (PWAs).
+- Working at [@IGT Solutions](https://weoto.in/) as a Data Analyst.
+- Currently learning to build with Chatbots with Google DialogFlow and LivePerson.
 - Worked on Web and Python based projects for [@Weoto Technologies](https://weoto.in/) and [@Frenasky](https://www.frenasky.com/).
 - When I'm not coding, I usually spend time Swing Trading or reading self-help books.
 -  **``Open for job opportunities``**
@@ -17,6 +18,6 @@ Final Year CSE Student with a Knack for **Web Technologies** and **Python**.
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white" />  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flatfor-the-badge&logo=numpy&logoColor=white" />
 #### Version Control and IDE
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat&logo=visual-studio-code&logoColor=white"/>  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
-
 #### Database and OS
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=MongoDB&logoColor=white"/>  <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=SQLite&logoColor=white"/>  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+
