@@ -1,9 +1,8 @@
 ## Hi there, I'm Ketan 👋
-<a href="https://leetcode.com/your-leetcode-username/"><img align="right" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
-<a href="https://www.linkedin.com/in/ketany/"><img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:ktnydv@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="https://github.com/ketan-16"><img align="right" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
-![](https://komarev.com/ghpvc/?username=ketan-16)
+<a href="https://www.linkedin.com/in/ketany/"><img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="https://leetcode.com/your-leetcode-username/"><img align="right" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ketan-16)
 
 <br/>
 
