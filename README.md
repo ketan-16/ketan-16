@@ -1,7 +1,7 @@
 ## Hi there, I'm Ketan 👋
 <a href="mailto:ktnydv@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ketany/"><img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/your-leetcode-username/"><img align="right" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
+<a href="https://leetcode.com/u/ketanyy/"><img align="right" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ketan-16)
 
 <br/>
