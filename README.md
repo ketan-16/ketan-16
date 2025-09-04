@@ -1,6 +1,5 @@
 ## Hi there, I'm Ketan 👋
 <a href="mailto:ktnydv@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ketany/"><img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/u/ketanyy/"><img align="right" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ketan-16)
 
@@ -9,7 +8,7 @@
 Software Engineer with expertise in **Python**, **Data Engineering**, and **Cloud Technologies**.
 
 :round_pushpin: Pune, India 
-- Currently working at [@IGT Solutions](https://www.igtsolutions.com/) as a **Software Engineer**, specializing in designing and maintaining complex data pipelines.
+- Currently working as a **Software Engineer**, specializing in designing and maintaining complex data pipelines.
 - Experience in **AWS** and **PySpark** for handling large-scale data projects.
 - Expanding my web-of-tech by building machine learning systems and web-based applications.
 - Open for collaborations and always eager to explore new technologies.
